@@ -1,4 +1,4 @@
-This repo contains project files to reproduce an issue with [System.IO.Pipes.NamedPipeServerStream](https://learn.microsoft.com/en-us/dotnet/api/system.io.pipes.namedpipeserverstream?view=net-9.0).
+This repo contains project files to reproduce an issue with [System.IO.Pipes.NamedPipeServerStream](https://learn.microsoft.com/en-us/dotnet/api/system.io.pipes.namedpipeserverstream?view=net-9.0). Reported in the [Dotnet/runtime repo at #112912](https://github.com/dotnet/runtime/issues/112912)
 
 ## Getting Started
 - Make sure to have [Rust](https://www.rust-lang.org/tools/install) and [DotNet 8 SDK](https://dotnet.microsoft.com/en-us/download/dotnet/8.0) installed in your system
